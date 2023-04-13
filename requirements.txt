@@ -1,0 +1,4 @@
+numpy==1.24.2
+protobuf==4.21.9
+pygame==2.3.0
+pywatchman==1.4.1
