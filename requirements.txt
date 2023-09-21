@@ -1,4 +1,8 @@
 numpy==1.24.2
 protobuf==4.21.9
 pygame==2.3.0
+pygame-menu==4.4.3
+pygame-popup==0.9.1
+pyperclip==1.8.2
 pywatchman==1.4.1
+typing_extensions==4.8.0
